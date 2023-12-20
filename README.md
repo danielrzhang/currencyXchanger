@@ -1,6 +1,8 @@
 # currencyXchanger
 currencyXchanger is a user-friendly and efficient currency conversion tool that allows users to convert between different currencies quickly and accurately. Whether you're a traveler, an online shopper, or someone dealing with international finances, this app will provide real-time exchange rates and reliable conversions.
 
+[Try it out here!](https://danielrzhang-currencyxchanger.netlify.app/)
+
 ![](/readme-images/display.png)
 
 ## Features
@@ -16,6 +18,6 @@ currencyXchanger is a user-friendly and efficient currency conversion tool that 
 
     `cd currencyXchanger`
 
-3. Replace the API key in the `api-key.js` file with your own API key from [ExchangeRate API](https://www.exchangerate-api.com/).
+3. Paste your own the API key in the `api-key.js` file from [ExchangeRate API](https://www.exchangerate-api.com/).
 
 4. Deploy the app to your preferred hosting platform, or use GitHub Pages for quick deployment.
