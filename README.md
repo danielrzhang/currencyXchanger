@@ -18,6 +18,6 @@ currencyXchanger is a user-friendly and efficient currency conversion tool that 
 
     `cd currencyXchanger`
 
-3. Paste your own the API key in the `api-key.js` file from [ExchangeRate API](https://www.exchangerate-api.com/).
+3. Paste your own the API key into the `api-key.js` file from [ExchangeRate API](https://www.exchangerate-api.com/).
 
 4. Deploy the app to your preferred hosting platform, or use GitHub Pages for quick deployment.
