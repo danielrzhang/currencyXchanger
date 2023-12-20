@@ -14,7 +14,7 @@ currencyXchanger is a user-friendly and efficient currency conversion tool that 
     `git clone https://github.com/danielrzhang/currencyXchanger.git`
 2. Navigate to the project directory.
 
-    `cd xChanger`
+    `cd currencyXchanger`
 
 3. Replace the API key in the `api-key.js` file with your own API key from [ExchangeRate API](https://www.exchangerate-api.com/).
 
