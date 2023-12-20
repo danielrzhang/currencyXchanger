@@ -1,5 +1,5 @@
-# xChanger
-xChanger is a user-friendly and efficient currency conversion tool that allows users to convert between different currencies quickly and accurately. Whether you're a traveler, an online shopper, or someone dealing with international finances, this app will provide real-time exchange rates and reliable conversions.
+# currencyXchanger
+currencyXchanger is a user-friendly and efficient currency conversion tool that allows users to convert between different currencies quickly and accurately. Whether you're a traveler, an online shopper, or someone dealing with international finances, this app will provide real-time exchange rates and reliable conversions.
 
 ![](/readme-images/display.png)
 
@@ -11,7 +11,7 @@ xChanger is a user-friendly and efficient currency conversion tool that allows u
 ## Installation
 1. Clone the repository.
 
-    `git clone https://github.com/danielrzhang/xChanger.git`
+    `git clone https://github.com/danielrzhang/currencyXchanger.git`
 2. Navigate to the project directory.
 
     `cd xChanger`
